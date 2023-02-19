@@ -1,0 +1,4 @@
+{
+    "remote.WSL.debug": false,
+    "remote.WSL.fileWatcher.polling": true
+}
